@@ -57,10 +57,10 @@ Contributions are welcome across disciplines: physics, neuroscience, cognitive s
 
 ## 📜 License
 
-This work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.  
-You are free to share and adapt with attribution, but not for commercial use.
+This work is licensed under the **Creative Commons Attribution 4.0 International License**.  
+You are free to share and adapt for any purpose — including commercial — as long as appropriate credit is given.
 
-[View License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[View License](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
